@@ -1,0 +1,13 @@
+C:\Users\Ira\source\repos\MakingAGraph\bin\Debug\MakingAGraph.exe.config
+C:\Users\Ira\source\repos\MakingAGraph\bin\Debug\MakingAGraph.exe
+C:\Users\Ira\source\repos\MakingAGraph\bin\Debug\MakingAGraph.pdb
+C:\Users\Ira\source\repos\MakingAGraph\obj\Debug\MakingAGraph.csprojAssemblyReference.cache
+C:\Users\Ira\source\repos\MakingAGraph\obj\Debug\MakingAGraph.Form1.resources
+C:\Users\Ira\source\repos\MakingAGraph\obj\Debug\MakingAGraph.GammaForm.resources
+C:\Users\Ira\source\repos\MakingAGraph\obj\Debug\MakingAGraph.Properties.Resources.resources
+C:\Users\Ira\source\repos\MakingAGraph\obj\Debug\MakingAGraph.csproj.GenerateResource.cache
+C:\Users\Ira\source\repos\MakingAGraph\obj\Debug\MakingAGraph.csproj.CoreCompileInputs.cache
+C:\Users\Ira\source\repos\MakingAGraph\obj\Debug\MakingAGraph.exe
+C:\Users\Ira\source\repos\MakingAGraph\obj\Debug\MakingAGraph.pdb
+C:\Users\Ira\source\repos\MakingAGraph\obj\Debug\MakingAGraph.Form2.resources
+C:\Users\Ira\source\repos\MakingAGraph\obj\Debug\MakingAGraph.Form3.resources
